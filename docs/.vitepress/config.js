@@ -15,7 +15,7 @@ export default {
       prev: '上一篇',
       next: '下一篇'
     },//设置底部上下篇的文字
-    lastUpdatedText: 'Updated Date',//更新事件
+    lastUpdatedText: 'Updated Date',//更新时间
     editLink: {
       pattern: 'https://github.com/lukexiaoyu/vitepress-template/tree/master/docs/:path',//修改文章的地址
       text: 'Edit this page on GitHub'
