@@ -16,6 +16,7 @@ hero:
       text: View on GitHub
       link: https://github.com/vuejs/vitepress
 features:
+
   - title: Vite, The DX that can't be beat
     details: Lorem ipsum...
   - title: Vite, The DX that can't be beat
