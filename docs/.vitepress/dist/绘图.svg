@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="绘图.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.50383782"
+     inkscape:cx="297.71485"
+     inkscape:cy="592.45255"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="739.07712"
+       y="1033.8148"
+       width="408.61363"
+       height="232.21758"
+       id="rect443" />
+    <rect
+       x="672.09128"
+       y="962.36325"
+       width="162.99888"
+       height="214.35469"
+       id="rect437" />
+    <rect
+       x="138.43741"
+       y="366.18927"
+       width="151.83457"
+       height="111.64307"
+       id="rect214" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="66.167122"
+       y="168.37169"
+       id="text160"><tspan
+         sodipodi:role="line"
+         id="tspan158"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#800080;stroke-width:0.264583"
+         x="66.167122"
+         y="168.37169">KL</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text212"
+       style="white-space:pre;shape-inside:url(#rect214);display:inline;fill:#000000" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text435"
+       style="fill:#800080;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:192px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect437)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text441"
+       style="fill:#800080;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:192px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect443)" />
+  </g>
+</svg>
