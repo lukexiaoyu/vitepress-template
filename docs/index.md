@@ -26,7 +26,9 @@ features:
     title: Power of Vue meets Markdown
     details: Lorem ipsum...
   - icon: 🛠️
-    title: Simple and minimal, always
+    title: css
     details: Lorem ipsum...
+    link: /css/css
+    linkText: nice?
 ---
 ---
